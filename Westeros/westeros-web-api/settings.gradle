@@ -1,0 +1,4 @@
+rootProject.name = 'westeros-web-api'
+
+include 'westeros-data'
+project(':westeros-data').projectDir = new File(settingsDir,'../westeros-data')
