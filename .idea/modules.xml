@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/westeros-data/Westeros.westeros-data.iml" filepath="$PROJECT_DIR$/.idea/modules/westeros-data/Westeros.westeros-data.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/westeros-web-api/Westeros.westeros-web-api.iml" filepath="$PROJECT_DIR$/.idea/modules/westeros-web-api/Westeros.westeros-web-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/lab-11-nataliaotrombke.iml" filepath="$PROJECT_DIR$/.idea/lab-11-nataliaotrombke.iml" />
+    </modules>
+  </component>
+</project>

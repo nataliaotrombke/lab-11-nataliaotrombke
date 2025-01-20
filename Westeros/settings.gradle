@@ -1,5 +1,11 @@
 rootProject.name = 'Westeros'
 
-
+include 'westeros-data'
 include 'westeros-movies-client'
 include 'westeros-updater'
+include 'westeros-web-api'
+
+project(':westeros-data').projectDir = file('westeros-data')
+project(':westeros-movies-client').projectDir = file('westeros-movies-client')
+project(':westeros-updater').projectDir = file('westeros-updater')
+project(':westeros-web-api').projectDir = file('westeros-web-api')
